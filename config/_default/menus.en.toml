@@ -4,18 +4,6 @@
   weight = 100
   url = "/"
 
-  [[main]]
-  name = "Archive"
-  weight = 200
-  identifier = "posts"
-  url = "/post/"
-
-  [[main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
-
   # [[main]]
   # name = "Contact"
   # weight = 400

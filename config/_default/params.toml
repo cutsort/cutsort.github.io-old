@@ -3,14 +3,14 @@ title = "I'm Jane Doe"
 author = "Jane Doe"
 #copyright = "2020-2021"
 description = "Call me Jane"
-profilePicture = "images/cmoor_logo_notext.png"
+profilePicture = "images/ft-headshot.jpg"
 keywords = ""
 # favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
 customJs = []
-mainSections = ["post"]
+mainSections = [""]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
