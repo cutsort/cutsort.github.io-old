@@ -53,10 +53,10 @@ icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/cutsort"
 
-#[[socialIcons]]
-#icon = "fab fa-twitter"
-#title = "Twitter"
-#url = "https://twitter.com/cutsort"
+[[socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/cutsort"
 
 #[[socialIcons]]
 #icon = "fas fa-envelope"
