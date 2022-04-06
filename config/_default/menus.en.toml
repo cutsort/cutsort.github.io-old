@@ -12,7 +12,7 @@
 
   [[main]]
   name = "About"
-  weight = 300
+  weight = 30
   identifier = "about"
   url = "/about/"
 
