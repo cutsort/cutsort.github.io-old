@@ -2,6 +2,8 @@
 author = "Hugo Authors"
 +++
 
+Hello, world!
+
 <!--
 This file is left intentionally empty by default to be backward compatible with initial theme setup.
 
