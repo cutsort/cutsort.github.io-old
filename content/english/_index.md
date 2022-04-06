@@ -4,9 +4,12 @@ author = "Hugo Authors"
 
 # Bio
 
-Frederick Tan is on the Bioinformatics Research Faculty at [Carnegie Institution, Department of Embryology](https://emb.carnegiescience.edu), and an Adjunct Assistant Research Scientist at Johns Hopkins University, [Department of Biology](https://bio.jhu.edu).  His group works to build inclusive genomic data science communities where people from diverse backgrounds have the access, training, and support to advance their research using the latest genomic technologies.  Through collaborative educational programs such as C-MOOR, Quantitative Biology Bootcamp, Practical Genomics, and Genomic Data Science Community Network, he conducts research into effective strategies that support diverse populations.  Overall strategies emphasize empowering the learner, scaling to large cohorts, creating inclusive environments, and uniting diverse institutions.
+Frederick Tan is on the Bioinformatics Research Faculty at [Carnegie Institution, Department of Embryology](https://emb.carnegiescience.edu), and an Adjunct Assistant Research Scientist at Johns Hopkins University, [Department of Biology](https://bio.jhu.edu).
+His group works to build inclusive genomic data science communities where people from diverse backgrounds have the access, training, and support to advance their research using the latest genomic technologies.
+Through collaborative educational programs he conducts research into effective strategies that support diverse populations.
+Overall strategies emphasize empowering the learner, scaling to large cohorts, creating inclusive environments, and uniting diverse institutions.
 
-- [Google Scholar](https://scholar.google.com/citations?user=4bHDUGQAAAAJ)
+- [Google Scholar](https://scholar.google.com/citations?user=4bHDUGQAAAAJ&sortby=pubdate)
 
 # Educational Programs
 
