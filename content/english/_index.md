@@ -4,8 +4,7 @@ author = "Hugo Authors"
 
 # Bio
 
-Frederick Tan is on the Bioinformatics Research Faculty at [Carnegie Institution, Department of Embryology](https://emb.carnegiescience.edu), and an Adjunct Assistant Research Scientist at Johns Hopkins University, [Department of Biology](https://bio.jhu.edu).  His group conducts research on best practices to train and support diverse populations.  We are interested in strategies that increase persistence among learners, including undergraduates, graduate students, and faculty.  
-Through our collaborative educational programs, we aim to build inclusive genomic data science communities that advance research using the latest genomic technologies.
+Frederick Tan is on the Bioinformatics Research Faculty at [Carnegie Institution, Department of Embryology](https://emb.carnegiescience.edu), and an Adjunct Assistant Research Scientist at Johns Hopkins University, [Department of Biology](https://bio.jhu.edu).  His group conducts research on best practices to train and support diverse populations.  We are interested in strategies that increase persistence among learners, including undergraduates, graduate students, and faculty.  Through our collaborative educational programs, we aim to build inclusive genomic data science communities that advance research using the latest genomic technologies.
 
 - [Google Scholar](https://scholar.google.com/citations?user=4bHDUGQAAAAJ&sortby=pubdate)
 
