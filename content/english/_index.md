@@ -11,16 +11,25 @@ Overall strategies emphasize empowering the learner, scaling to large cohorts, c
 
 - [Google Scholar](https://scholar.google.com/citations?user=4bHDUGQAAAAJ&sortby=pubdate)
 
-# Educational Programs
+# Compute Ecosystems
+
+- [AnVIL](https://anvilproject.org) // Secure cloud-based genomics
+- [SciServer](https://sciserver.org) // Collaborative data-driven science
+- [OTTR](https://github.com/jhudsl/OTTR_Template/wiki) // Open-source tools for training resources
+
+# Educational and Research Communities
 
 - [Practical Genomics Workshop](http://genomics.jhu.edu/workshop) // Introduction to single cell analysis
-- [Quantitative Biology Bootcamp](http://bxlab.github.io/cmdb-bootcamp) // Computational skills for 1st year graduate student
+- [Quantitative Biology Bootcamp](https://bxlab.github.io/cmdb-bootcamp) // Computational skills for 1st year graduate student
 - [C-MOOR](https://github.com/c-moor) // Building pathways through authentic research experiences
+- [GDSCN](https://gdscn.org) // Diversifying the genomic data science research community
+- Assessment Tools // [BioSQuaRE](https://macalester.edu/hhmi/biosquare), [PITS](https://doi.org/10.1187/cbe.15-09-0185), [DSAS](https://doi.org/10.1109/FIE.2009.5350836)
 
 # Join the Conversation!
 
 - [help.c-moor.org](https://help.c-moor.org)
 - [help.anvilproject.org](https://help.anvilproject.org)
+- Openings
 
 <!--
 This file is left intentionally empty by default to be backward compatible with initial theme setup.
