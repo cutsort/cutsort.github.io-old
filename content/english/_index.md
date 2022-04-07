@@ -5,25 +5,25 @@ author = "Hugo Authors"
 # Bio
 
 Frederick Tan is on the Bioinformatics Research Faculty at [Carnegie Institution, Department of Embryology](https://emb.carnegiescience.edu), and an Adjunct Assistant Research Scientist at Johns Hopkins University, [Department of Biology](https://bio.jhu.edu).
-His group works to build inclusive genomic data science communities where people from diverse backgrounds have the access, training, and support to advance their research using the latest genomic technologies.
-Through collaborative educational programs he conducts research into effective strategies that support diverse populations.
-Overall strategies emphasize empowering the learner, scaling to large cohorts, creating inclusive environments, and uniting diverse institutions.
+His group conducts research on best practices to train and support diverse populations.  
+We are interested in strategies that increase persistence among learners, including undergraduates, graduate students, and faculty.  
+Through our collaborative educational programs, we aim to build inclusive genomic data science communities that advance research using the latest genomic technologies.
 
 - [Google Scholar](https://scholar.google.com/citations?user=4bHDUGQAAAAJ&sortby=pubdate)
 
-# Compute Ecosystems
-
-- [AnVIL](https://anvilproject.org) // Secure cloud-based genomics
-- [SciServer](https://sciserver.org) // Collaborative data-driven science
-- [OTTR](https://github.com/jhudsl/OTTR_Template/wiki) // Open-source tools for training resources
-
-# Educational and Research Communities
+# Training Environments
 
 - [Practical Genomics Workshop](http://genomics.jhu.edu/workshop) // Introduction to single cell analysis
 - [Quantitative Biology Bootcamp](https://bxlab.github.io/cmdb-bootcamp) // Computational skills for graduate students
 - [C-MOOR](https://github.com/c-moor) // Building pathways through authentic research experiences
 - [GDSCN](https://www.gdscn.org) // Diversifying the genomic data science research community
 - Assessment Tools // [BioSQuaRE](https://macalester.edu/hhmi/biosquare), [PITS](https://doi.org/10.1187/cbe.15-09-0185), [DSAS](https://doi.org/10.1109/FIE.2009.5350836)
+
+# Compute Platforms
+
+- [AnVIL](https://anvilproject.org) // Secure cloud-based genomics
+- [SciServer](https://sciserver.org) // Collaborative data-driven science
+- [OTTR](https://github.com/jhudsl/OTTR_Template/wiki) // Open-source tools for training resources
 
 # Join the Conversation!
 
