@@ -20,16 +20,16 @@ Overall strategies emphasize empowering the learner, scaling to large cohorts, c
 # Educational and Research Communities
 
 - [Practical Genomics Workshop](http://genomics.jhu.edu/workshop) // Introduction to single cell analysis
-- [Quantitative Biology Bootcamp](https://bxlab.github.io/cmdb-bootcamp) // Computational skills for 1st year graduate student
+- [Quantitative Biology Bootcamp](https://bxlab.github.io/cmdb-bootcamp) // Computational skills for graduate students
 - [C-MOOR](https://github.com/c-moor) // Building pathways through authentic research experiences
-- [GDSCN](https://gdscn.org) // Diversifying the genomic data science research community
+- [GDSCN](https://www.gdscn.org) // Diversifying the genomic data science research community
 - Assessment Tools // [BioSQuaRE](https://macalester.edu/hhmi/biosquare), [PITS](https://doi.org/10.1187/cbe.15-09-0185), [DSAS](https://doi.org/10.1109/FIE.2009.5350836)
 
 # Join the Conversation!
 
 - [help.c-moor.org](https://help.c-moor.org)
 - [help.anvilproject.org](https://help.anvilproject.org)
-- Openings
+- Opportunities
 
 <!--
 This file is left intentionally empty by default to be backward compatible with initial theme setup.
