@@ -31,7 +31,6 @@ Overall strategies emphasize empowering the learner, scaling to large cohorts, c
 - [help.anvilproject.org](https://help.anvilproject.org)
 - Opportunities
 
-
 <!--
 This file is left intentionally empty by default to be backward compatible with initial theme setup.
 
